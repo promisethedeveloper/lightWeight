@@ -2,7 +2,7 @@
 
 ## Overview
 
-**LIVE LINK **: https://soggy-queen.surge.sh/
+**LIVE LINK **: https://old-fashioned-ink.surge.sh/
 
 This is a full-stack application for users to search and plan their exercises. Before now, my daily exercises were saved as screenshots on my phone, and the weights I exercised with were typed on the notes app on my phone.
 
